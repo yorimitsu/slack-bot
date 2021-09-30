@@ -1,1 +1,1 @@
-# thanks-bot
+# slack bot
